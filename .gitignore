@@ -1,0 +1,6 @@
+human-productivity-ml/
+__pycache__/
+*.pyc
+.DS_Storer
+.ipynb_checkpoints/
+.env
